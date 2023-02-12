@@ -8,6 +8,7 @@ public class WikideasApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(WikideasApplication.class, args);
+
 	}
 
 }
